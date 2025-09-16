@@ -10,8 +10,6 @@ This project is a recreation of the popular New York Times Wordle game wordle ga
 <h2>Language Used</h2>
 
 - <b>Java</b> 
-- <b>Java Swing</b>
-- <b>Java AWT</b>
 
 <h2>Environments Used </h2>
 
